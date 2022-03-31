@@ -34,9 +34,15 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ### Me on other platforms
-| Platform | Profile | 
-|:--------:|:-------:|
+| Website | Profile | 
+|:-------:|:-------:|
 | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) | <a href="https://codeforces.com/profile/root_kali">root_kali</a> |
 |![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) | <a href="https://leetcode.com/nikmy/">nikmy</a> |
 | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | <a href="https://www.codewars.com/users/nikmy">nikmy</a>
 | ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) | <a href="https://play.google.com/store/apps/dev?id=5662696250176047121">My Ink</a>
+
+### Contact Me
+| Where | How |
+|:-----:|:---:|
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | dev.myink@gmail.com |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | @nik_mys |
