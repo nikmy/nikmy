@@ -36,5 +36,4 @@
 |:--------:|:-------:|
 | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) | <a href="https://codeforces.com/profile/root_kali">root_kali</a> |
 |![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) | <a href="https://leetcode.com/root_kali/">root_kali</a> |
-
 | ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | <a href="https://www.codewars.com/users/nikmy">nikmy</a>
