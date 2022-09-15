@@ -1,5 +1,5 @@
 ### About Me
-- I'm MIPT DIHT second year student
+- I'm MIPT DIHT third year student
 - I'm currently learning Golang and Highload Systems
 
 
