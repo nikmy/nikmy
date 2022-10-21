@@ -21,10 +21,10 @@
 
 
 ### Me on other platforms
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/nikmy/)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/root_kali)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)(https://www.codewars.com/users/nikmy)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)(https://play.google.com/store/apps/dev?id=5662696250176047121)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/nikmy/)]
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/root_kali)]
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)(https://www.codewars.com/users/nikmy)]
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)(https://play.google.com/store/apps/dev?id=5662696250176047121)]
 
 ### Contact Me
 | Where | How |
