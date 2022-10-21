@@ -1,6 +1,6 @@
 ### About Me
 - I'm MIPT DIHT third year student
-- I'm currently interested in Highload Distributed Systems
+- I'm interested in Highload Distributed Systems
 
 ### Career
 - MIPT CSE (2020 - 2024)
