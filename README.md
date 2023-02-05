@@ -1,8 +1,3 @@
-### Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikmy&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikmy&theme=dracula)
-
 ### About Me
 - I'm MIPT DIHT third year student
 - I'm interested in Highload Distributed Systems
@@ -11,6 +6,10 @@
 - MIPT CSE (2020 - 2024)
 - Yandex Go Backend Internship (2022) 
 
+### Activity
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikmy&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikmy&theme=dracula)
 
 ### Skills / knowledges
 
