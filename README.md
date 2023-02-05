@@ -1,3 +1,8 @@
+### Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikmy&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikmy&theme=dracula)
+
 ### About Me
 - I'm MIPT DIHT third year student
 - I'm interested in Highload Distributed Systems
