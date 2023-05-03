@@ -23,6 +23,7 @@
 - gRPC  
 - PostreSQL
 - CMake
+- Redis
 
 
 ### Me on other platforms
