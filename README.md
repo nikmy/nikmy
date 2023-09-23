@@ -5,6 +5,7 @@
 ### Career
 - MIPT CSE (2020 - 2024)
 - Yandex Go Backend Internship (2022) 
+- Middle Go Developer @ Yandex
 
 ### Activity
 
