@@ -1,5 +1,5 @@
 ### About Me
-- I'm MIPT DIHT third year student
+- I'm MIPT DIHT 4th year student
 - I'm interested in Highload Distributed Systems
 
 ### Career
